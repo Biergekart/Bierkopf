@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,user-scalable=no,maximum-scale=1">
+<title>Bierkopf – Am Wirtshaustisch</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app">
+<header class="topbar">
+  <div class="teamScore"><span>DU + FRANZ</span><b id="score0">0</b></div>
+  <div class="title">🍺 BIERKOPF<small>AM WIRTISCH</small></div>
+  <div class="teamScore"><span>SEPP + XAVER</span><b id="score1">0</b></div>
+</header>
+
+<main class="table">
+  <div class="wood"></div>
+  <div class="beer beer-left">🍺</div>
+  <div class="beer beer-right">🍺</div>
+  <div class="pipe">🚬</div>
+
+  <div class="opponent top"><div class="face franz">🧔🏻</div><div class="name">FRANZ<small>Dein Partner</small></div></div>
+  <div class="opponent left"><div class="face sepp">👨🏻</div><div class="name">SEPP<small>Rote Backen · 🍺</small></div></div>
+  <div class="opponent right"><div class="face xaver">👨🏻‍🦳</div><div class="name">XAVER<small>Die Pfeife</small></div></div>
+
+  <section class="felt">
+    <div class="feltLabel" id="trickLabel">STICH 1</div>
+    <div id="trick" class="trick"></div>
+    <div id="status" class="status">👉 Du spielst aus!</div>
+  </section>
+</main>
+
+<div class="actions">
+  <button id="spritzBtn">🍺 SPRITZ ×2</button>
+  <button id="reBtn">↩ RE ×2</button>
+  <button id="newBtn">↻ NEU</button>
+</div>
+
+<footer class="handArea">
+  <div class="playerInfo">👤 DU <span id="eyes">0 Augen</span></div>
+  <div id="hand" class="hand"></div>
+</footer>
+</div>
+<script src="game.js"></script>
+</body>
+</html>

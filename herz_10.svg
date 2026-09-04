@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 420">
+    <rect x="4" y="4" width="292" height="412" rx="15" fill="#fffdf6" stroke="#583b23" stroke-width="7"/>
+    <rect x="14" y="14" width="272" height="392" rx="10" fill="none" stroke="#cda96d" stroke-width="2"/>
+    <path d="M18 90 Q150 62 282 90" fill="none" stroke="#d7c28e" stroke-width="2" opacity=".5"/>
+    <text x="24" y="48" font-family="Georgia" font-size="31" font-weight="bold" fill="#c9232c">10</text>
+                 
+        <g transform="translate(43,77) scale(0.58)">
+          <path d="M0,29 C-34,7 -24,-21 -8,-19 C-2,-19 0,-13 0,-8
+                   C0,-13 2,-19 8,-19 C24,-21 34,7 0,29Z"
+                fill="#c9232c" stroke="#8c131a" stroke-width="2.4"/>
+        </g><g transform="rotate(180 150 210)"><text x="24" y="48" font-family="Georgia" font-size="31" font-weight="bold" fill="#c9232c">10</text>
+                 
+        <g transform="translate(43,77) scale(0.58)">
+          <path d="M0,29 C-34,7 -24,-21 -8,-19 C-2,-19 0,-13 0,-8
+                   C0,-13 2,-19 8,-19 C24,-21 34,7 0,29Z"
+                fill="#c9232c" stroke="#8c131a" stroke-width="2.4"/>
+        </g></g>
+        <g transform="translate(95,110) scale(0.68)">
+          <path d="M0,29 C-34,7 -24,-21 -8,-19 C-2,-19 0,-13 0,-8
+                   C0,-13 2,-19 8,-19 C24,-21 34,7 0,29Z"
+                fill="#c9232c" stroke="#8c131a" stroke-width="2.4"/>
+        </g>
+        <g transform="translate(205,110) scale(0.68)">
+          <path d="M0,29 C-34,7 -24,-21 -8,-19 C-2,-19 0,-13 0,-8
+                   C0,-13 2,-19 8,-19 C24,-21 34,7 0,29Z"
+                fill="#c9232c" stroke="#8c131a" stroke-width="2.4"/>
+        </g>
+        <g transform="translate(95,170) scale(0.68)">
+          <path d="M0,29 C-34,7 -24,-21 -8,-19 C-2,-19 0,-13 0,-8
+                   C0,-13 2,-19 8,-19 C24,-21 34,7 0,29Z"
+                fill="#c9232c" stroke="#8c131a" stroke-width="2.4"/>
+        </g>
+        <g transform="translate(205,170) scale(0.68)">
+          <path d="M0,29 C-34,7 -24,-21 -8,-19 C-2,-19 0,-13 0,-8
+                   C0,-13 2,-19 8,-19 C24,-21 34,7 0,29Z"
+                fill="#c9232c" stroke="#8c131a" stroke-width="2.4"/>
+        </g>
+        <g transform="translate(95,250) scale(0.68)">
+          <path d="M0,29 C-34,7 -24,-21 -8,-19 C-2,-19 0,-13 0,-8
+                   C0,-13 2,-19 8,-19 C24,-21 34,7 0,29Z"
+                fill="#c9232c" stroke="#8c131a" stroke-width="2.4"/>
+        </g>
+        <g transform="translate(205,250) scale(0.68)">
+          <path d="M0,29 C-34,7 -24,-21 -8,-19 C-2,-19 0,-13 0,-8
+                   C0,-13 2,-19 8,-19 C24,-21 34,7 0,29Z"
+                fill="#c9232c" stroke="#8c131a" stroke-width="2.4"/>
+        </g>
+        <g transform="translate(95,310) scale(0.68)">
+          <path d="M0,29 C-34,7 -24,-21 -8,-19 C-2,-19 0,-13 0,-8
+                   C0,-13 2,-19 8,-19 C24,-21 34,7 0,29Z"
+                fill="#c9232c" stroke="#8c131a" stroke-width="2.4"/>
+        </g>
+        <g transform="translate(205,310) scale(0.68)">
+          <path d="M0,29 C-34,7 -24,-21 -8,-19 C-2,-19 0,-13 0,-8
+                   C0,-13 2,-19 8,-19 C24,-21 34,7 0,29Z"
+                fill="#c9232c" stroke="#8c131a" stroke-width="2.4"/>
+        </g>
+        <g transform="translate(150,140) scale(0.68)">
+          <path d="M0,29 C-34,7 -24,-21 -8,-19 C-2,-19 0,-13 0,-8
+                   C0,-13 2,-19 8,-19 C24,-21 34,7 0,29Z"
+                fill="#c9232c" stroke="#8c131a" stroke-width="2.4"/>
+        </g>
+        <g transform="translate(150,280) scale(0.68)">
+          <path d="M0,29 C-34,7 -24,-21 -8,-19 C-2,-19 0,-13 0,-8
+                   C0,-13 2,-19 8,-19 C24,-21 34,7 0,29Z"
+                fill="#c9232c" stroke="#8c131a" stroke-width="2.4"/>
+        </g>
+    </svg>

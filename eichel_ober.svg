@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 420">
+    <rect x="4" y="4" width="292" height="412" rx="15" fill="#fffdf6" stroke="#583b23" stroke-width="7"/>
+    <rect x="14" y="14" width="272" height="392" rx="10" fill="none" stroke="#cda96d" stroke-width="2"/>
+    <path d="M18 90 Q150 62 282 90" fill="none" stroke="#d7c28e" stroke-width="2" opacity=".5"/>
+    <text x="24" y="48" font-family="Georgia" font-size="31" font-weight="bold" fill="#5a3823">O</text>
+                 
+        <g transform="translate(43,77) scale(0.58)">
+          <ellipse cx="0" cy="9" rx="13" ry="18" fill="#5a3823"/>
+          <path d="M-16,-1 Q0,-17 16,-1 Q10,6 0,3 Q-10,6 -16,-1Z" fill="#7b5634"/>
+          <path d="M1,-13 Q5,-25 16,-28" fill="none" stroke="#51311e" stroke-width="3" stroke-linecap="round"/>
+        </g><g transform="rotate(180 150 210)"><text x="24" y="48" font-family="Georgia" font-size="31" font-weight="bold" fill="#5a3823">O</text>
+                 
+        <g transform="translate(43,77) scale(0.58)">
+          <ellipse cx="0" cy="9" rx="13" ry="18" fill="#5a3823"/>
+          <path d="M-16,-1 Q0,-17 16,-1 Q10,6 0,3 Q-10,6 -16,-1Z" fill="#7b5634"/>
+          <path d="M1,-13 Q5,-25 16,-28" fill="none" stroke="#51311e" stroke-width="3" stroke-linecap="round"/>
+        </g></g>
+    <g>
+      <path d="M78 326 Q150 238 222 326 L222 356 L78 356Z" fill="#5a3823" stroke="#4c321d" stroke-width="5"/>
+      <circle cx="150" cy="180" r="56" fill="#efc39b" stroke="#684128" stroke-width="5"/>
+      <path d="M100 151 Q150 98 200 151 L193 174 Q150 151 107 174Z" fill="#7b5134" stroke="#3d2617" stroke-width="4"/>
+      <circle cx="130" cy="181" r="5" fill="#25170f"/><circle cx="170" cy="181" r="5" fill="#25170f"/>
+      <path d="M118 204 Q150 262 182 204 Q170 277 150 280 Q130 277 118 204Z" fill="#4c3025" stroke="#2b1b14" stroke-width="3"/>
+      <path d="M127 208 Q150 219 173 208" fill="none" stroke="#7c4a3e" stroke-width="4"/>
+      <path d="M102 125 L150 96 L198 125 L190 142 L110 142Z" fill="#31536d" stroke="#263b4b" stroke-width="4"/>
+      
+        <g transform="translate(150,302) scale(0.85)">
+          <ellipse cx="0" cy="9" rx="13" ry="18" fill="#5a3823"/>
+          <path d="M-16,-1 Q0,-17 16,-1 Q10,6 0,3 Q-10,6 -16,-1Z" fill="#7b5634"/>
+          <path d="M1,-13 Q5,-25 16,-28" fill="none" stroke="#51311e" stroke-width="3" stroke-linecap="round"/>
+        </g>
+      <text x="150" y="385" text-anchor="middle" font-family="Georgia" font-size="18" font-weight="bold" fill="#53341f">FRANZ · OBER</text>
+    </g>
+    </svg>
